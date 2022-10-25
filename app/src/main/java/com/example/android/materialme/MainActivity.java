@@ -16,17 +16,25 @@
 
 package com.example.android.materialme;
 
+import android.content.Intent;
+import android.content.SharedPreferences;
 import android.content.res.TypedArray;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.ItemTouchHelper;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
+
+import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.Collections;
 
@@ -46,21 +54,25 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        int gridColumnCount = getResources().getInteger(R.integer.grid_column_count);
+
         // Initialize the RecyclerView.
         mRecyclerView = findViewById(R.id.recyclerView);
-
         // Set the Layout Manager.
-        mRecyclerView.setLayoutManager(new LinearLayoutManager(this));
+        mRecyclerView.setLayoutManager(new GridLayoutManager(this, gridColumnCount));
 
-        // Initialize the ArrayList that will contain the data.
-        mSportsData = new ArrayList<>();
+        if(savedInstanceState != null){
+            mSportsData = savedInstanceState.getParcelableArrayList("key");
+            mAdapter = new SportsAdapter(this, mSportsData);
+            mRecyclerView.setAdapter(mAdapter);
+        }
+        if(mSportsData == null){
+            mSportsData = new ArrayList<>();
+            mAdapter = new SportsAdapter(this, mSportsData);
+            mRecyclerView.setAdapter(mAdapter);
+            initializeData();
+        }
 
-        // Initialize the adapter and set it to the RecyclerView.
-        mAdapter = new SportsAdapter(this, mSportsData);
-        mRecyclerView.setAdapter(mAdapter);
-
-        // Get the data.
-        initializeData();
         ItemTouchHelper helper = new ItemTouchHelper(new ItemTouchHelper.SimpleCallback(ItemTouchHelper.LEFT | ItemTouchHelper.RIGHT | ItemTouchHelper.DOWN | ItemTouchHelper.UP, ItemTouchHelper.LEFT | ItemTouchHelper.RIGHT) {
             @Override
             public boolean onMove(@NonNull RecyclerView recyclerView, @NonNull RecyclerView.ViewHolder viewHolder, @NonNull RecyclerView.ViewHolder target) {
@@ -90,23 +102,20 @@ public class MainActivity extends AppCompatActivity {
                 .getStringArray(R.array.sports_titles);
         String[] sportsInfo = getResources()
                 .getStringArray(R.array.sports_info);
-
         // Clear the existing data (to avoid duplication).
         mSportsData.clear();
 
-        // Create the ArrayList of Sports objects with titles and
-        // information about each sport.
         for(int i=0;i<sportsList.length;i++){
             mSportsData.add(new Sport(sportsImageResources.getResourceId(i,0), sportsList[i],sportsInfo[i]));
         }
         sportsImageResources.recycle();
 
-        // Notify the adapter of the change.
         mAdapter.notifyDataSetChanged();
     }
 
     @Override
     protected void onSaveInstanceState(@NonNull Bundle outState) {
+        outState.putParcelableArrayList("key", mSportsData);
         super.onSaveInstanceState(outState);
     }
 

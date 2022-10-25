@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:2:1-26:12
+ADDED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml:2:1-25:12
 MERGED from [com.google.android.material:material:1.6.1] /home/tessera/.gradle/caches/transforms-3/b6f52d92dea29c0a7f49d4078033a89a/transformed/material-1.6.1/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/tessera/.gradle/caches/transforms-3/7973dc37a0b9b77da65b027e645a80f7/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /home/tessera/.gradle/caches/transforms-3/9fcd71b74993ce137981334ebd65f441/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:17:1-22:12
@@ -44,25 +44,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /home/tessera/.gradle/cac
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/tessera/.gradle/caches/transforms-3/be78f20c96fdd8562774ce9c33a112b9/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /home/tessera/.gradle/caches/transforms-3/f1c1f6112ea6a1f399972dce89bf2eda/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/tessera/.gradle/caches/transforms-3/458619b281edf38572d58e052c6fe20b/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml:2:1-25:12
 	package
-		ADDED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:3:5-45
-		INJECTED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml
-		INJECTED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml
+		ADDED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml
-		ADDED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:2:1-26:12
-		INJECTED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml
+		ADDED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml
-		ADDED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:2:1-26:12
-		INJECTED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml
+		ADDED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:5:5-24:19
+ADDED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml:5:5-23:19
 MERGED from [com.google.android.material:material:1.6.1] /home/tessera/.gradle/caches/transforms-3/b6f52d92dea29c0a7f49d4078033a89a/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.1] /home/tessera/.gradle/caches/transforms-3/b6f52d92dea29c0a7f49d4078033a89a/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/tessera/.gradle/caches/transforms-3/7973dc37a0b9b77da65b027e645a80f7/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
@@ -80,43 +80,41 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /home/tessera/.gradle/cache
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.8.0] /home/tessera/.gradle/caches/transforms-3/0638d9dacb5fd10604e28ec2b4d3c80b/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml:9:9-35
 	android:label
-		ADDED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml:8:9-41
 	android:icon
-		ADDED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:10:9-40
+		ADDED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml:10:9-40
 activity#com.example.android.materialme.DetailActivity
-ADDED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:11:9-13:40
+ADDED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml:11:9-13:40
 	android:exported
-		ADDED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:13:13-37
+		ADDED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml:13:13-37
 	android:name
-		ADDED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:12:13-43
+		ADDED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml:12:13-43
 activity#com.example.android.materialme.MainActivity
-ADDED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:14:9-23:20
+ADDED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml:14:9-22:20
 	android:exported
-		ADDED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:17:13-36
-	android:configChanges
-		ADDED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:16:13-59
+		ADDED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml:16:13-36
 	android:name
-		ADDED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:15:13-41
+		ADDED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml:15:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:18:13-22:29
+ADDED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:19:17-69
+ADDED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:19:25-66
+		ADDED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:21:17-77
+ADDED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml:21:27-74
+		ADDED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml:20:27-74
 uses-sdk
-INJECTED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml
-INJECTED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml
+INJECTED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml
+INJECTED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.6.1] /home/tessera/.gradle/caches/transforms-3/b6f52d92dea29c0a7f49d4078033a89a/transformed/material-1.6.1/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.material:material:1.6.1] /home/tessera/.gradle/caches/transforms-3/b6f52d92dea29c0a7f49d4078033a89a/transformed/material-1.6.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/tessera/.gradle/caches/transforms-3/7973dc37a0b9b77da65b027e645a80f7/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
@@ -197,16 +195,16 @@ MERGED from [androidx.print:print:1.0.0] /home/tessera/.gradle/caches/transforms
 MERGED from [androidx.print:print:1.0.0] /home/tessera/.gradle/caches/transforms-3/f1c1f6112ea6a1f399972dce89bf2eda/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/tessera/.gradle/caches/transforms-3/458619b281edf38572d58e052c6fe20b/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/tessera/.gradle/caches/transforms-3/458619b281edf38572d58e052c6fe20b/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml
-INJECTED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml
+INJECTED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml
+INJECTED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml
-		ADDED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml
-		INJECTED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml
+		ADDED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml
-		ADDED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml
-		INJECTED from /home/tessera/Desktop/unit2/MaterialMe-Starter_5.2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml
+		ADDED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.2.0] /home/tessera/.gradle/caches/transforms-3/69e8195e0af1903606758bebf50c459d/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/tessera/.gradle/caches/transforms-3/a2a5ae00951a98f5c9bbf6406733a104/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
