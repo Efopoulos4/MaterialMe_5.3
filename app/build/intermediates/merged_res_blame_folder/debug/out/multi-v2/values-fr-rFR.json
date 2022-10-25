@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.android.materialme.app-mergeDebugResources-27:/values-fr-rFR/values-fr-rFR.xml",
+            "map": [
+                {
+                    "source": "/home/tessera/Desktop/unit2/MaterialMe_5.3/app/src/main/res/values-fr-rFR/strings.xml",
+                    "from": {
+                        "startLines": "23,37,9,3,5,6,7,4",
+                        "startColumns": "8,8,8,8,8,8,8,8",
+                        "startOffsets": "1378,1955,930,60,172,231,312,116",
+                        "endLines": "35,49,21,3,5,6,7,4",
+                        "endColumns": "16,23,23,55,58,80,616,55",
+                        "endOffsets": "1945,2710,1368,107,222,303,920,163"
+                    },
+                    "to": {
+                        "startLines": "2,15,28,41,42,43,44,45",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,627,1387,1830,1882,1937,2014,2627",
+                        "endLines": "14,27,40,41,42,43,44,45",
+                        "endColumns": "16,23,23,51,54,76,612,51",
+                        "endOffsets": "622,1382,1825,1877,1932,2009,2622,2674"
+                    }
+                }
+            ]
+        }
+    ]
+}

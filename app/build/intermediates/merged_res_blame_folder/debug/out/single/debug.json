@@ -1,110 +1,106 @@
 [
     {
-        "merged": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-merged_res-29:/drawable_img_cycling.jpg.flat",
-        "source": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-main-31:/drawable/img_cycling.jpg"
+        "merged": "com.example.android.materialme.app-merged_res-29:/drawable_img_basketball.jpg.flat",
+        "source": "com.example.android.materialme.app-main-31:/drawable/img_basketball.jpg"
     },
     {
         "merged": "com.example.android.materialme.app-merged_res-29:/layout_activity_detail.xml.flat",
         "source": "com.example.android.materialme.app-main-31:/layout/activity_detail.xml"
     },
     {
-        "merged": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-main-31:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "com.example.android.materialme.app-merged_res-29:/drawable_img_cycling.jpg.flat",
+        "source": "com.example.android.materialme.app-main-31:/drawable/img_cycling.jpg"
     },
     {
-        "merged": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-merged_res-29:/drawable-xxxhdpi_ic_refresh.png.flat",
-        "source": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-pngs-24:/drawable-xxxhdpi/ic_refresh.png"
+        "merged": "com.example.android.materialme.app-merged_res-29:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.android.materialme.app-main-31:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-merged_res-29:/layout_activity_main.xml.flat",
-        "source": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-main-31:/layout/activity_main.xml"
+        "merged": "com.example.android.materialme.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.android.materialme.app-main-31:/layout/activity_main.xml"
     },
     {
-        "merged": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-merged_res-29:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-main-31:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "com.example.android.materialme.app-merged_res-29:/drawable-xhdpi_ic_refresh.png.flat",
+        "source": "com.example.android.materialme.app-pngs-24:/drawable-xhdpi/ic_refresh.png"
     },
     {
-        "merged": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-merged_res-29:/drawable_img_basketball.jpg.flat",
-        "source": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-main-31:/drawable/img_basketball.jpg"
+        "merged": "com.example.android.materialme.app-merged_res-29:/layout_list_item.xml.flat",
+        "source": "com.example.android.materialme.app-main-31:/layout/list_item.xml"
     },
     {
-        "merged": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-merged_res-29:/drawable_img_golf.jpg.flat",
-        "source": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-main-31:/drawable/img_golf.jpg"
+        "merged": "com.example.android.materialme.app-merged_res-29:/drawable-anydpi-v21_ic_refresh.xml.flat",
+        "source": "com.example.android.materialme.app-pngs-24:/drawable-anydpi-v21/ic_refresh.xml"
     },
     {
-        "merged": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-merged_res-29:/drawable_img_tennis.jpg.flat",
-        "source": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-main-31:/drawable/img_tennis.jpg"
+        "merged": "com.example.android.materialme.app-merged_res-29:/drawable_img_badminton.jpg.flat",
+        "source": "com.example.android.materialme.app-main-31:/drawable/img_badminton.jpg"
     },
     {
-        "merged": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-merged_res-29:/layout_activity_detail.xml.flat",
-        "source": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-main-31:/layout/activity_detail.xml"
+        "merged": "com.example.android.materialme.app-merged_res-29:/drawable-hdpi_ic_refresh.png.flat",
+        "source": "com.example.android.materialme.app-pngs-24:/drawable-hdpi/ic_refresh.png"
     },
     {
-        "merged": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-merged_res-29:/drawable-xhdpi_ic_refresh.png.flat",
-        "source": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-pngs-24:/drawable-xhdpi/ic_refresh.png"
+        "merged": "com.example.android.materialme.app-merged_res-29:/drawable_img_golf.jpg.flat",
+        "source": "com.example.android.materialme.app-main-31:/drawable/img_golf.jpg"
     },
     {
-        "merged": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-merged_res-29:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-main-31:/mipmap-hdpi/ic_launcher.png"
+        "merged": "com.example.android.materialme.app-merged_res-29:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.android.materialme.app-main-31:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-merged_res-29:/drawable-mdpi_ic_refresh.png.flat",
-        "source": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-pngs-24:/drawable-mdpi/ic_refresh.png"
+        "merged": "com.example.android.materialme.app-merged_res-29:/drawable-ldpi_ic_refresh.png.flat",
+        "source": "com.example.android.materialme.app-pngs-24:/drawable-ldpi/ic_refresh.png"
     },
     {
-        "merged": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-merged_res-29:/drawable_img_baseball.jpg.flat",
-        "source": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-main-31:/drawable/img_baseball.jpg"
+        "merged": "com.example.android.materialme.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.materialme.app-main-31:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-merged_res-29:/drawable_img_running.jpg.flat",
-        "source": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-main-31:/drawable/img_running.jpg"
+        "merged": "com.example.android.materialme.app-merged_res-29:/drawable_img_baseball.jpg.flat",
+        "source": "com.example.android.materialme.app-main-31:/drawable/img_baseball.jpg"
     },
     {
-        "merged": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-merged_res-29:/drawable_img_badminton.jpg.flat",
-        "source": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-main-31:/drawable/img_badminton.jpg"
+        "merged": "com.example.android.materialme.app-merged_res-29:/drawable-xxxhdpi_ic_refresh.png.flat",
+        "source": "com.example.android.materialme.app-pngs-24:/drawable-xxxhdpi/ic_refresh.png"
     },
     {
-        "merged": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-merged_res-29:/drawable_img_tabletennis.jpg.flat",
-        "source": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-main-31:/drawable/img_tabletennis.jpg"
+        "merged": "com.example.android.materialme.app-merged_res-29:/drawable-mdpi_ic_refresh.png.flat",
+        "source": "com.example.android.materialme.app-pngs-24:/drawable-mdpi/ic_refresh.png"
     },
     {
-        "merged": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-merged_res-29:/drawable-anydpi-v21_ic_refresh.xml.flat",
-        "source": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-pngs-24:/drawable-anydpi-v21/ic_refresh.xml"
+        "merged": "com.example.android.materialme.app-merged_res-29:/drawable_img_bowling.jpg.flat",
+        "source": "com.example.android.materialme.app-main-31:/drawable/img_bowling.jpg"
     },
     {
-        "merged": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-merged_res-29:/drawable_img_bowling.jpg.flat",
-        "source": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-main-31:/drawable/img_bowling.jpg"
+        "merged": "com.example.android.materialme.app-merged_res-29:/drawable-xxhdpi_ic_refresh.png.flat",
+        "source": "com.example.android.materialme.app-pngs-24:/drawable-xxhdpi/ic_refresh.png"
     },
     {
-        "merged": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-merged_res-29:/drawable_img_swimming.jpg.flat",
-        "source": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-main-31:/drawable/img_swimming.jpg"
+        "merged": "com.example.android.materialme.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.materialme.app-main-31:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-merged_res-29:/drawable_img_soccer.jpg.flat",
-        "source": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-main-31:/drawable/img_soccer.jpg"
+        "merged": "com.example.android.materialme.app-merged_res-29:/drawable_img_soccer.jpg.flat",
+        "source": "com.example.android.materialme.app-main-31:/drawable/img_soccer.jpg"
     },
     {
-        "merged": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-main-31:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "com.example.android.materialme.app-merged_res-29:/drawable_img_running.jpg.flat",
+        "source": "com.example.android.materialme.app-main-31:/drawable/img_running.jpg"
     },
     {
-        "merged": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-merged_res-29:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-main-31:/mipmap-mdpi/ic_launcher.png"
+        "merged": "com.example.android.materialme.app-merged_res-29:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.materialme.app-main-31:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-merged_res-29:/drawable-ldpi_ic_refresh.png.flat",
-        "source": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-pngs-24:/drawable-ldpi/ic_refresh.png"
+        "merged": "com.example.android.materialme.app-merged_res-29:/drawable_img_tennis.jpg.flat",
+        "source": "com.example.android.materialme.app-main-31:/drawable/img_tennis.jpg"
     },
     {
-        "merged": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-merged_res-29:/layout_list_item.xml.flat",
-        "source": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-main-31:/layout/list_item.xml"
+        "merged": "com.example.android.materialme.app-merged_res-29:/drawable_img_tabletennis.jpg.flat",
+        "source": "com.example.android.materialme.app-main-31:/drawable/img_tabletennis.jpg"
     },
     {
-        "merged": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-merged_res-29:/drawable-hdpi_ic_refresh.png.flat",
-        "source": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-pngs-24:/drawable-hdpi/ic_refresh.png"
-    },
-    {
-        "merged": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-merged_res-29:/drawable-xxhdpi_ic_refresh.png.flat",
-        "source": "/home/tessera/.gradle/daemon/7.3.3/com.example.android.materialme.app-pngs-24:/drawable-xxhdpi/ic_refresh.png"
+        "merged": "com.example.android.materialme.app-merged_res-29:/drawable_img_swimming.jpg.flat",
+        "source": "com.example.android.materialme.app-main-31:/drawable/img_swimming.jpg"
     }
 ]

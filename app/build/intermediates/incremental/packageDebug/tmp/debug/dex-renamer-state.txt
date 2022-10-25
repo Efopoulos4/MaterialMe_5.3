@@ -1,4 +1,4 @@
-#Tue Oct 25 13:53:43 EEST 2022
+#Tue Oct 25 14:42:53 EEST 2022
 base.0=/home/tessera/Desktop/unit2/MaterialMe_5.3/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
